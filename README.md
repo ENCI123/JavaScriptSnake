@@ -1,0 +1,2 @@
+# JavaScriptSnake
+Personal little project
